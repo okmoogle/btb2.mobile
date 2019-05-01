@@ -9,6 +9,11 @@
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button x:Name="takePhoto" Text="Take a picture."/>
+        <Image x:Name="image"
+               HeightRequest="500"
+               WidthRequest="500"
+               />
     </StackLayout>
 
 </ContentPage>
