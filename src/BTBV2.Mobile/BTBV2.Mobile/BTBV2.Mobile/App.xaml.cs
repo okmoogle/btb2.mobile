@@ -10,7 +10,7 @@ namespace BTBV2.Mobile
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new StandardListPage();
         }
 
         protected override void OnStart()

@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionF
 		..\..\README.md = ..\..\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTBV2.DAL", "BTBV2.DAL\BTBV2.DAL.csproj", "{6B022990-71E3-4FC4-A62C-F12E42BBA612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{0D05ED7F-3517-440B-B44F-5E47A5ED5A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D05ED7F-3517-440B-B44F-5E47A5ED5A64}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0D05ED7F-3517-440B-B44F-5E47A5ED5A64}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6B022990-71E3-4FC4-A62C-F12E42BBA612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B022990-71E3-4FC4-A62C-F12E42BBA612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B022990-71E3-4FC4-A62C-F12E42BBA612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B022990-71E3-4FC4-A62C-F12E42BBA612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
